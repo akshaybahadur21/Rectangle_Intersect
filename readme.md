@@ -21,7 +21,6 @@ Following is a simpler approach. Two rectangles do not overlap if one of the fol
 
 For more information, [see](http://www.geeksforgeeks.org/find-two-rectangles-overlap/)
 
-<img src="https://github.com/akshaybahadur21/Search/blob/master/search.gif" align=center>
 
 
 ### Execution
