@@ -1,19 +1,21 @@
-# Rectangle Intersection [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Rectangle_Intersect/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+# Rectangle Intersection 🥡
+
+[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Rectangle_Intersect/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+
 This code helps you to understand the rectangle intersection problem
 
-### Sourcerer
-[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Rectangle_Intersect/links/7)
-
-### Code Requirements
+## Code Requirements 🦄
 The example code is in Java ([version 1.8](https://java.com/en/download/) or higher will work). 
 
-### Description
+## Description 📦
 
 Note that a rectangle can be represented by two coordinates, top left and bottom right. So mainly we are given following four coordinates.
 l1: Top Left coordinate of first rectangle.
 r1: Bottom Right coordinate of first rectangle.
 l2: Top Left coordinate of second rectangle.
 r2: Bottom Right coordinate of second rectangle.
+
+## Results 📊
 
 <img src="https://github.com/akshaybahadur21/Rectangle_Intersect/blob/master/rect.png" align=center>
 
@@ -24,9 +26,7 @@ Following is a simpler approach. Two rectangles do not overlap if one of the fol
 
 For more information, [see](http://www.geeksforgeeks.org/find-two-rectangles-overlap/)
 
-
-
-### Execution
+## Execution 🐉
 To compile the code, simply run the `javac Rectangle_Intersect.java`.
 To run the code, type `java Rectangle_Intersect`
 
